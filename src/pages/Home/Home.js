@@ -115,7 +115,7 @@ const Home = () => {
                          </Link>
                          <Link to='/movie_page'>
                              <div className='menu_item active'>
-                                 <img src='/icons/Group46.png' alt="" title=""/>
+                                 <img src='/icons/Group46.png' alt="" title="e"/>
                                  <div className='menu_item_name'>
                                      Home
                                  </div>
